@@ -26,8 +26,8 @@ setup(
         "Framework :: Django",
     ],
     install_requires=[
-        'Django>=1.5',
-        'django-registration>=1.0',
+        'Django>=1.7',
+        'django-registration-redux==1.1',
     ],
     packages=['registration_defaults'],
     package_dir={'registration_defaults': 'registration_defaults'},
