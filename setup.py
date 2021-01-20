@@ -27,7 +27,7 @@ setup(
     ],
     install_requires=[
         'Django>=1.7',
-        'django-registration-redux==1.1',
+        'django-registration-redux==1.4',
     ],
     packages=['registration_defaults'],
     package_dir={'registration_defaults': 'registration_defaults'},
